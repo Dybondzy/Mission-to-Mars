@@ -87,7 +87,6 @@ The index.html file contains code that will display the full-resolution image UR
 
 After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images (10 pt)
 Deliverable 3: Add Bootstrap 3 Components (20 points)
-! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
 
 Deliverable 3 Instructions
 For this part of the Challenge, update your web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out
@@ -116,6 +115,8 @@ You will earn a perfect score for Deliverable 3 by completing all requirements b
 
 The webpage is mobile-responsive (10 pt)
 Two additional Bootstrap 3 components are used to style the webpage (10 pt)
+
+
 Submission
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
 
@@ -124,12 +125,20 @@ As a reminder, the deliverables for this Challenge are as follows:
 Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
 Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 Deliverable 3: Add Bootstrap 3 Components
+
 Upload the following to your Mission-to-Mars GitHub repository:
 
 The Mission_to_Mars_Challenge.ipynb file with all the code used for scraping.
 An updated scraping.py file.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+
 The app.py file.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/app.py
+
 The index.html file in the template folder and any CSS stylesheets.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/index.html
+
+
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
 ! https://github.com/Dybondzy/Mission-to-Mars/blob/main/README.md
 
