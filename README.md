@@ -68,6 +68,7 @@ If you’d like a hint on coding the syntax for rendering Mongo database objects
 
 Run the app.py file, open the index.html file, and click the "Scrape New Data" button.
 After you have scraped the data, confirm that your webpage has the full-resolution images and the titles of the four hemisphere images
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/app.py
 
 Save your Mission_to_Mars_Challenge.ipynb file, the updated scraping.py file, and the updated index.html file.
 Deliverable 2 Requirements
@@ -91,7 +92,11 @@ For this part of the Challenge, update your web app to make it mobile-responsive
 As you update your app, keep the following questions in mind:
 
 Is this page clean?
+YES
+
 Does the page stand out from other pages?
+YES
+
 Follow the instructions below to complete Deliverable 3.
 
 Use the Bootstrap 3 grid system (Links to an external site.) examples to update your index.html file so your website is mobile-responsive. Use the DevTools to test the responsiveness of your website.
