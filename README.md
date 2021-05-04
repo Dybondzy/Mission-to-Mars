@@ -15,9 +15,11 @@ Deliverable 3: Add Bootstrap 3 Components
 Files
 Use the following links to download the Challenge starter codes.
 
-Download the starter code. (Links to an external site.)
+Download the starter code.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
 
-Download the updated index.html file. (Links to an external site.)
+Download the updated index.html file.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
 
 Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles (40 points)
 Deliverable 1 Instructions
@@ -26,6 +28,8 @@ Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars
 Follow the instructions below to complete Deliverable 1.
 
 Make a copy of your Mission_to_Mars.ipynb file, and rename it Mission_to_Mars_Challenge.ipynb.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+
 Download the Mission_to_Mars_Challenge_starter_code.ipynb, copy the starter code, and paste at the end of your Mission_to_Mars_Challenge.ipynb file.
 In Step 1, use your browser to visit the Mars Hemispheres (Links to an external site.) website to view the hemisphere images.
 
@@ -70,10 +74,17 @@ Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
 The scraping.py file contains code that retrieves the full-resolution image URL and title for each hemisphere image (10 pt)
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+
 The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image (10 pt)
+
 The index.html file contains code that will display the full-resolution image URL and title for each hemisphere image (10 pt)
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+
 After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images (10 pt)
 Deliverable 3: Add Bootstrap 3 Components (20 points)
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+
 Deliverable 3 Instructions
 For this part of the Challenge, update your web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out
 
