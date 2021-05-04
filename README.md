@@ -19,7 +19,7 @@ Download the starter code.
 ! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
 
 Download the updated index.html file.
-! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/index.html
 
 Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles (40 points)
 Deliverable 1 Instructions
@@ -79,7 +79,7 @@ The scraping.py file contains code that retrieves the full-resolution image URL 
 The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image (10 pt)
 
 The index.html file contains code that will display the full-resolution image URL and title for each hemisphere image (10 pt)
-! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/index.html
 
 After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images (10 pt)
 Deliverable 3: Add Bootstrap 3 Components (20 points)
