@@ -16,7 +16,7 @@ Files
 Use the following links to download the Challenge starter codes.
 
 Download the starter code.
-! https://github.com/Dybondzy/Mission-to-Mars/blob/main/scraping.py
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge_Starter_code.ipynb
 
 Download the updated index.html file.
 ! https://github.com/Dybondzy/Mission-to-Mars/blob/main/index.html
@@ -32,6 +32,7 @@ Make a copy of your Mission_to_Mars.ipynb file, and rename it Mission_to_Mars_Ch
 
 Download the Mission_to_Mars_Challenge_starter_code.ipynb, copy the starter code, and paste at the end of your Mission_to_Mars_Challenge.ipynb file.
 In Step 1, use your browser to visit the Mars Hemispheres (Links to an external site.) website to view the hemisphere images.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.ipynb
 
 Use the DevTools to inspect the page for the proper elements to scrape. You will need to retrieve the full-resolution image for each of Mars's hemispheres.
 
@@ -60,6 +61,8 @@ Using your Python and HTML skills, you’ll add the code you created in Delivera
 Follow the instructions below to complete Deliverable 2.
 
 Export the Mission_to_Mars_Challenge.ipynb file as a Python file, and save it as Mission_to_Mars_Challenge.py.
+! https://github.com/Dybondzy/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.py
+
 In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
 Below the def mars_facts() function in the scraping.pyfile, create a function that will scrape the hemisphere data by using your code from the Mission_to_Mars_Challenge.py file. At the end of the function, return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
 Run the app.py file, then check your Mongo database to make sure that you are retrieving all of the data.
